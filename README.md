@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello World!
+
+Just remember one thing: You Only Live Once!
